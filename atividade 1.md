@@ -5,8 +5,6 @@
 
 ### Requisição Funcional
 
-o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
-
 o sistema deve permitir o usuario a acessar o curso pago
 
 o sistema deve ter medoto de pagamento por pix ou cartao de credito/debito
@@ -37,8 +35,6 @@ o sistema deve permitir o acesso ao suporte
 
 o sistema deve permitir upload de videos e tranalhos da aula
 
-o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
-
 o sistema deve suportar ao acesso de varias pessoas simultanes
 
 ### Requisição Não funcionais
@@ -49,4 +45,6 @@ o sistema deve responder a requisição do usuário em até 2 segundos
 
 O sistema deve ter um layout basico e objetivo
 
+o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
 
+o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
