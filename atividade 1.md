@@ -44,3 +44,14 @@
 * o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
 
 * o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
+
+### Regras de negocio de sistema escolar online
+
+* cadastro do sistema do usuario:
+* ultilizando cpf, Email ou telefone
+* os Usuarios que podem acessar podem ser professores ou alunos
+* o usuario pode recuperar a senha ultilizando email ou telefone
+* o sistema devera verificar se o usario ja estra cadastrado antes de criar um novo usuario
+* o usuario deve acessar o login com email/telefone e senha
+* o usuario deve ter acesso as aulas pagas e a seu login
+* caso o usuario não consigo aprender em 30 dias um reembolso sera efetuado
