@@ -3,6 +3,7 @@
 
 ## Equipe:Angelo, Dheive e Bruno
 
+### Requisição Funcional
 
 o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
 
@@ -39,5 +40,6 @@ o sistema deve permitir upload de videos e tranalhos da aula
 o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
 
 o sistema deve suportar ao acesso de varias pessoas simultanes
+
 
 o sistema deve ter o acesso via web e app ISO/android
