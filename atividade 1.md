@@ -41,5 +41,12 @@ o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
 
 o sistema deve suportar ao acesso de varias pessoas simultanes
 
+### Requisição Não funcionais
 
 o sistema deve ter o acesso via web e app ISO/android
+
+o sistema deve responder a requisição do usuário em até 2 segundos
+
+O sistema deve ter um layout basico e objetivo
+
+
