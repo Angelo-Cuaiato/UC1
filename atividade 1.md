@@ -3,50 +3,43 @@
 
 ## Equipe:Angelo, Dheive e Bruno
 
-### Requisição Funcional
 
-o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
+RF1 o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
 
-o sistema deve permitir o usuario a acessar o curso pago
+RF2 o sistema deve permitir o usuario a acessar o curso pago
 
-o sistema deve ter medoto de pagamento por pix ou cartao de credito/debito
+RF3 o sistema deve ter medoto de pagamento por pix ou cartao de credito/debito
 
-o sistema deve permeitir que o usuario tenha uma forma de pedir reembolso do produto caso insatisfeito, e possa comprar novos cursos
+RF4 o sistema deve permeitir que o usuario tenha uma forma de pedir reembolso do produto caso insatisfeito, e possa comprar novos cursos
 
-o sistema deve ser intuitiva e atraente para novos usuarios
+RF5 o sistema deve ser seguro para colocar dados pessoais
 
-o sistema deve ter um historico de aulas assistidas para aos aluno e professores de forma separada
+RF6 o sistema deve permitir que o usuario posso mudar senha e email cadastrados
 
-o sistema deve ter gerenciamento de notas 
+RF7 o sistema deve permitir que o aluno pesquise os cursos que ele se interessa
 
-o sistema deve ser seguro para colocar dados pessoais
+RF8 o sistema deve ter gerenciamento de notas 
 
-o sistema deve permitir o acesso as atividades da aula
+RF9 o sistema deve permitir ter que aluno seja reprovado ou aprovado
 
-o sistema deve permitir o acesso ao video da aula
+RF10 o sistema deve permitir que o aluno acesse e visualize sua nota e frequencias
 
-o sistema deve permitir que o aluno acesse e visualize sua nota e frequencias
+RF o sistema deve permitir o acesso as atividades da aula quando quiser
 
-o sistema deve permitir que o usuario posso mudar senha e email cadastrados
+RF o sistema deve ter um historico de aulas assistidas para aos aluno e professores de forma separada
 
-o sistema deve permitir que o aluno pesquise os cursos que ele se interessa
+RF o sistema deve permitir o acesso ao video da aula
 
-o sistema deve ter notificações sobre as aulas e os conteudos 
+RF o sistema deve ter notificações sobre as aulas e os conteudos 
 
-o sistema deve permitir o acesso ao suporte
+RF o sistema deve permitir o acesso ao suporte
 
-o sistema deve permitir upload de videos e tranalhos da aula
+RF o sistema deve permitir upload de videos e tranalhos da aula
 
-o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
+RF o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
 
-o sistema deve suportar ao acesso de varias pessoas simultanes
+RNF o sistema deve suportar ao acesso de varias pessoas simultanes
 
-### Requisição Não funcionais
+RF o sistema deve ter o acesso via web e app ISO/android
 
-o sistema deve ter o acesso via web e app ISO/android
-
-o sistema deve responder a requisição do usuário em até 2 segundos
-
-O sistema deve ter um layout basico e objetivo
-
-
+RNF1 o sistema deve ser intuitiva e atraente para novos usuarios
