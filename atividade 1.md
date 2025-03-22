@@ -15,8 +15,6 @@
 
 * o sistema deve ter gerenciamento de notas 
 
-* o sistema deve ser seguro para colocar dados pessoais
-
 * o sistema deve permitir o acesso as atividades da aula
 
 * o sistema deve permitir o acesso ao video da aula
@@ -44,3 +42,5 @@
 * o sistema deve permitir o usuario crie uma conta de forma rapida e intuitiva
 
 * o sistema deve permitir que o usuario ganhe um diploma ao finalizar o curso
+
+* o sistema deve ser seguro para colocar dados pessoais
